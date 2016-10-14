@@ -1,0 +1,20 @@
+{
+  "name": "webProjectWorkflowWithGulpGitAndBrowserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminhp93/web_project_workflow_with_gulp_and_browerify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminhp93/web_project_workflow_with_gulp_and_browerify/issues"
+  },
+  "homepage": "https://github.com/aminhp93/web_project_workflow_with_gulp_and_browerify#readme"
+}
