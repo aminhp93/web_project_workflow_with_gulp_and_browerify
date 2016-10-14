@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/aminhp93/web_project_workflow_with_gulp_and_browerify/issues"
   },
-  "homepage": "https://github.com/aminhp93/web_project_workflow_with_gulp_and_browerify#readme"
+  "homepage": "https://github.com/aminhp93/web_project_workflow_with_gulp_and_browerify#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
